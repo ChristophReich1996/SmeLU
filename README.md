@@ -1,7 +1,8 @@
 # Smooth ReLU in PyTorch
 
+<p align="center">
 <img src="plots/SemLU.png" alt="drawing" width="300"/><img src="plots/SemLU_grad.png" alt="drawing" width="300"/>
-<br/>
+</p>
 
 Unofficial **PyTorch** reimplementation of the Smooth ReLU (SmeLU) activation function proposed in the
 paper [Real World Large Scale Recommendation Systems Reproducibility and Smooth Activations](https://arxiv.org/pdf/2202.06499.pdf)
