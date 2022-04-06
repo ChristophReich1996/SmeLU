@@ -11,7 +11,7 @@ class SmeLU(nn.Module):
     def __init__(self, beta: float = 2.) -> None:
         """
         Constructor method.
-        :param beta (float): Beta value if the SemLU activation function. Default 2.
+        :param beta (float): Beta value if the SmeLU activation function. Default 2.
         """
         # Call super constructor
         super(SmeLU, self).__init__()

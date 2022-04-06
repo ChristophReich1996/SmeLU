@@ -42,7 +42,7 @@ The SmeLU takes the following parameters.
 
 | Parameter | Description | Type |
 | ------------- | ------------- | ------------- |
-| beta | Beta value if the SemLU activation function. Default 2. | float |
+| beta | Beta value if the SmeLU activation function. Default 2. | float |
 
 ## Reference
 
