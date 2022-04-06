@@ -15,6 +15,8 @@ class SmeLU(nn.Module):
         """
         # Call super constructor
         super(SmeLU, self).__init__()
+        # Check beta
+        assert beta >= 0., f"Beta must be equal or larger than zero. beta={beta} given."
         # Save parameter
         self.beta: float = beta
 
