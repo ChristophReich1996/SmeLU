@@ -8,7 +8,7 @@ Unofficial **PyTorch** reimplementation of the Smooth ReLU (SmeLU) activation fu
 paper [Real World Large Scale Recommendation Systems Reproducibility and Smooth Activations](https://arxiv.org/pdf/2202.06499.pdf)
 by Gil I. Shamir and Dong Lin.
 
-**This repository includes an easy-to-use and pure PyTorch implementation of the Smooth ReLU.**
+**This repository includes an easy-to-use pure PyTorch implementation of the Smooth ReLU.**
 
 ## Installation
 
