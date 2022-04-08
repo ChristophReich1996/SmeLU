@@ -20,6 +20,13 @@ class SmeLU(nn.Module):
         # Save parameter
         self.beta: float = beta
 
+    def __repr__(self) -> str:
+        """
+        Returns a string representation.
+        :return (str): String representation
+        """
+        return f"SmeLU(beta={self.beta})"
+
     def forward(self, input: torch.Tensor) -> torch.Tensor:
         """
         Forward pass.
