@@ -1,5 +1,7 @@
 # Smooth ReLU in PyTorch
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ChristophReich1996/Swin-Transformer-V2/blob/master/LICENSE)
+
 <p align="center">
 <img src="plots/SemLU.png" alt="drawing" width="300"/><img src="plots/SemLU_grad.png" alt="drawing" width="300"/>
 </p>
