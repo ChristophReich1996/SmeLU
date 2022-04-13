@@ -12,6 +12,8 @@ by Gil I. Shamir and Dong Lin.
 
 **This repository includes an easy-to-use pure PyTorch implementation of the Smooth ReLU.**
 
+In case you run into performance issues with this implementation, please have a look at my [Triton SmeLU implementation](https://github.com/ChristophReich1996/SmeLU-Triton).
+
 ## Installation
 
 The SmeLU can be installed by using `pip`.
